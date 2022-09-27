@@ -20,7 +20,7 @@ class LookColor {
         int randomindex3 = generator.nextInt(socks.length);
 
         System.out.println("Segue lista de roupas que você deve sair hoje");
-        System.out.println("Camiseta: " + top[randomindex] + "Calça: " + down[randomindex2] + "Meias: " + socks[randomindex3] + "!");
+        System.out.println("Camiseta: " + top[randomindex] + " Calça: " + down[randomindex2] + " Meias: " + socks[randomindex3] + "!");
 
     }
 }
